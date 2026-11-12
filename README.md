@@ -7,6 +7,9 @@ For breaking into systems I use virt-machine in Kali Linux and for writing scrip
 
 Please don't use my instruction to harm anyone. Anything I share here is for educational purpose and sake of my own documentation.
 
+DON'T BE STUPID!
+
+![background picture](asset/hr.jpg)
 
 
-Thanks
+
