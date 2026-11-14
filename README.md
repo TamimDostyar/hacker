@@ -1,4 +1,3 @@
-#![background picture](asset/hr.jpg)
 <img src="asset/hr.jpg" width="100%">
 
 This is a library of all the CTFs I have done. As a system level engineer I love to break into systems, understand vulnerabilities and develop systems strong and safer.
