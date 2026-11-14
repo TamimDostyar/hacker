@@ -1,3 +1,6 @@
+![background picture](asset/hr.jpg)
+
+
 This is a library of all the CTFs I have done. As a system level engineer I love to break into systems, understand vulnerabilities and develop systems strong and safer.
 
 Here will be a set of different domains from web explotations, cryptography and to breaking into actual systems and reverse engineering software.
@@ -14,7 +17,6 @@ ______________________________
 
 DON'T BE STUPID!
 
-![background picture](asset/hr.jpg)
 
 
 
