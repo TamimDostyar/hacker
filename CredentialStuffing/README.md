@@ -1,12 +1,16 @@
 # Credential Stuffing
 
+**Challenge name** Credential Stuffing
 **Platform:** CyLab Security Academy
-**Category:** Web / Password Security
-**Difficulty:** Easy
+**Category:** Web Exploitation
+**Difficulty:** Medium
+
 **Flag:** `academy{d0nt_r3u5e_cr3d3nt1als_bf0ae95e}`
+**username** sarita
+**password** common
+
 
 ---
-
 ## Description
 
 An online banking service is exposed at `chatelaine.cylabacademy.net`. A dump of
