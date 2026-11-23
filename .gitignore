@@ -1,1 +1,3 @@
 tryhackme/*.ovpn
+malware/dist
+node_modules
